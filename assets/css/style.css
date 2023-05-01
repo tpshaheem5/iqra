@@ -1517,6 +1517,8 @@ h6 {
 
 #footer .footer-top .footer-info img {
   height: 40px;
+  
+
   margin-bottom: 10px;
 }
 
@@ -1597,7 +1599,7 @@ h6 {
 }
 
 #footer .footer-top .footer-contact {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 #footer .footer-top .footer-contact p {
