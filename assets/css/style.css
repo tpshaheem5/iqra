@@ -1665,7 +1665,7 @@ h6 {
   }
     .single-counter .counter-icon i {
       font-size: 65px;
-      color: #1863ff;
+      color: #34176b;
       background-color: #f5f8ff;
       border: 2px solid #e6e6e6;
       width: 100px;
@@ -1674,7 +1674,7 @@ h6 {
       border-radius: 50%; }
   .single-counter .counter-content .count {
     font-size: 45px;
-    color: #1863ff;
+    color: #34176b;
     font-weight: 600;
     margin-top: 5px; }
   .single-counter .counter-content .text {
